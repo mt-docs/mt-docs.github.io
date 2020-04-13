@@ -1,1 +1,7 @@
 theme: jekyll-theme-architect
+title: "About Mathias Thierbach"
+description: "Personal Profile Page"
+google_analytics: UA-163317787-2
+show_downloads: false
+github:
+  owner_url: https://github.com/mthierba
